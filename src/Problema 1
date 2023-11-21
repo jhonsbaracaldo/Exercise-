@@ -1,0 +1,31 @@
+Reglas
+
+Esta prohibido utilizar chatGPt- solo videos y documentacion
+tiempo limite 15 mn
+
+ 1.Ejercicio
+
+Dados cinco números enteros positivos,
+encuentre los valores mínimo y máximo que se pueden
+calcular sumando exactamente cuatro de los cinco números enteros.
+Luego imprima los valores mínimo y máximo respectivos como una sola
+línea de dos enteros largos separados por espacios.
+
+Array =[1,3,5,7,9]
+ example 1+3+5+7 =16 minimo / 3+5+7+9= 24 maximo
+ suma 16+24 = 40
+
+ tomar los siguientes datos
+
+ Array =[3,9,11,22,36]
+
+ Debe imprimir los valores del arregglo  en consola adicional
+ los resultados totales
+ y se deben sumar;
+
+ 2.preguntas
+ ¿Qué es la refactorización?
+ ¿En qué se diferencian los requisitos funcionales de los no funcionales?
+
+
+
